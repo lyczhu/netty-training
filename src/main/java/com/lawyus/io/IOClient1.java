@@ -1,10 +1,10 @@
-package com.lawyus.netty.io;
+package com.lawyus.io;
 
 import java.io.IOException;
 import java.net.Socket;
 import java.util.Date;
 
-public class IOClient {
+public class IOClient1 {
 
     /**
      * Client客户端连接服务端8000端口每隔2秒向服务端写带有时间戳的 "hello world"

@@ -1,4 +1,4 @@
-package com.lawyus.netty.nio;
+package com.lawyus.nio;
 
 import java.io.IOException;
 import java.io.RandomAccessFile;
